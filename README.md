@@ -1,3 +1,10 @@
+🐺 Desktop Wolf - 桌面宠物小狼
+
+一款可拖动、透明窗口、多平台适配的桌面宠物应用（持续更新中...）
+A draggable, transparent-window, cross-platform desktop pet application(Continuing to update...)
+
+
+📜 版权与使用声明 | Copyright & Usage Terms
 代码部分
 本项目的源代码基于MIT License开源，你可以自由使用、修改、分发代码，但需保留原作者署名。
 
