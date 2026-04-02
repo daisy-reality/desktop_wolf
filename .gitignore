@@ -1,0 +1,18 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcodeproj/project.pbxproj
+android/app/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+.idea/
+*.iml
+*.ipr
+*.iws
