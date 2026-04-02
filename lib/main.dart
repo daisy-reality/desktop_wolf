@@ -150,7 +150,7 @@ class _DeskPetState extends State<DeskPet> {
                 });
               },
               child: Image.asset(
-                "assets/wolf.png",
+                "assets/img.png",
                 width: 100, 
                 fit: BoxFit.contain,
                 filterQuality: FilterQuality.none,
