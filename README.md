@@ -1,17 +1,22 @@
-# my_first_app
+代码部分
+本项目的源代码基于MIT License开源，你可以自由使用、修改、分发代码，但需保留原作者署名。
 
-A new Flutter project.
+素材 / 图片部分
+本项目 assets/ 目录下的所有图片、插画、动画素材，版权归原作者所有，保留所有权利。
+✅ 允许个人非商用、学习交流使用
+❌ 禁止用于任何形式的 AI 训练、AI 生成、大模型训练、数据爬取
+❌ 禁止商用、二次分发、修改后商用
+❌ 禁止未经授权的转载、售卖
+如有商用或授权需求，请联系作者获取书面许可。
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Code Part
+The source code of this project is open-sourced under the MIT License. You are free to use, modify, and distribute the code, provided that the original author's attribution is retained.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Asset/Image Part
+All images, illustrations, and animation assets in the assets/ directory of this project are copyrighted by the original author, all rights reserved.
+✅ Allowed for personal non-commercial use and learning exchange
+❌ Prohibited for any form of AI training, AI generation, large model training, or data crawling
+❌ Prohibited for commercial use, secondary distribution, or modified commercial use
+❌ Prohibited for unauthorized reproduction or sale
+For commercial use or authorization requests, please contact the author for written permission.
